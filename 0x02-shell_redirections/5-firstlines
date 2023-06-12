@@ -1,2 +1,2 @@
 #!/bin/bash
-hesd /etc/passwd
+hesd -10 /etc/passwd
